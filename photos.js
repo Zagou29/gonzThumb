@@ -65,7 +65,7 @@ try {
   boxes.apLienMenu(menu, sens_date);
   tab_titre = boxes.returnBoxes;
   /** va charger les objets img */
-  const listImages = await fetchJSON("./xjson/photoImg.json");
+  const listImages = await fetchJSON("./xjson/photoimg.json");
   /** 1 recent vers vieux, -1 le contraire */
   inverser(listImages, Math.floor(sens_date));
   /** si pas le json total, filtrer par val_trans */
