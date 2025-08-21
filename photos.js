@@ -2,7 +2,7 @@ import { Affimg } from "./xfonctions/affimg.js";
 import { fetchJSON } from "./xfonctions/api.js";
 import { createElement } from "./xfonctions/dom.js";
 import { Menubox } from "./xfonctions/menubox.js";
-import { go_fullScreen, stop_fullScreen } from "./xfonctions/fullScreen.js";
+import { go_fullScreen, stop_fullScreen } from "./xfonctions/fullscreen.js";
 import { navig, ordi_OS } from "./xfonctions/nav_os.js";
 /* Si l'OS est windows, supprimer les barres de defilement */
 // if (ordi_OS().win || ordi_OS().ios) {
