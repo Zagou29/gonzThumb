@@ -94,7 +94,7 @@
         "clas": ".vid.voy.amer.usa",
         "menu": "Voyages",
         "groupe": "Amérique",
-        "src": "./box_img/usaQuebec01.jpg",
+        "src": "./box_img/usaquebec01.jpg",
         "detail": "U.S.A"
     },
     {
@@ -122,14 +122,14 @@
         "clas": ".vid.voy.euro.frn",
         "menu": "Voyages",
         "groupe": "Europe",
-        "src": "./box_img/franceNord-01.jpg",
+        "src": "./box_img/francenord-01.jpg",
         "detail": "France Nord"
     },
     {
         "clas": ".vid.voy.euro.frs",
         "menu": "Voyages",
         "groupe": "Europe",
-        "src": "./box_img/franceSud-01.jpg",
+        "src": "./box_img/francesud-01.jpg",
         "detail": "France Sud"
     },
     {
@@ -178,7 +178,7 @@
         "clas": ".dia.voy.amer.usa",
         "menu": "Voyages",
         "groupe": "Amérique",
-        "src": "./box_img/usaQuebec02.jpg",
+        "src": "./box_img/usaquebec02.jpg",
         "detail": "U.S.A"
     },
     {
@@ -199,7 +199,7 @@
         "clas": ".dia.voy.euro.frs",
         "menu": "Voyages",
         "groupe": "Europe",
-        "src": "./box_img/franceSud-03.jpg",
+        "src": "./box_img/francesud-03.jpg",
         "detail": "France Sud"
     },
     {
@@ -220,7 +220,7 @@
         "clas": ".dia.voy.euro.frn",
         "menu": "Voyages",
         "groupe": "",
-        "src": "./box_img/franceNord-02.jpg",
+        "src": "./box_img/francenord-02.jpg",
         "detail": "France Nord"
     },
     {

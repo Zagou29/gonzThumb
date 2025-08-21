@@ -234,7 +234,7 @@ body {
   grid-area: main;
   padding: 2px 0 5px 0;
   overflow: hidden;
-  background: url("./images/Mimosa2.jpg") left/cover;
+  background: url("./images/mimosa2.jpg") left/cover;
   display: flex;
   flex-direction: column;
   position: relative;
