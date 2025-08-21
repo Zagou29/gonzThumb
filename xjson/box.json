@@ -11,7 +11,7 @@
     "menu": "ph",
     "ph": "carious",
     "href": "",
-    "src": "./images/Carious.jpg",
+    "src": "./images/carious.jpg",
     "spText": "Carious",
     "divText": "Les Carious de 1900 à 2008"
   },
@@ -19,7 +19,7 @@
     "menu": "ph",
     "ph": "avion",
     "href": "",
-    "src": "./images/Avions-4.jpg",
+    "src": "./images/avions-4.jpg",
     "spText": "Avions 1418",
     "divText": "Grand Père était dans l'aviation durant la guerre de 14/18.\n                  \n                  Il nous a laissé 250 photos stéréo sur plaques de verre..\n                  Voici les avions..."
   },
@@ -27,7 +27,7 @@
     "menu": "ph",
     "ph": "guerre",
     "href": "",
-    "src": "./images/Guerre.jpg",
+    "src": "./images/guerre.jpg",
     "spText": "Guerre 1418",
     "divText": "Il a aussi photographié Verdun en 1917. \n                  Des canons, des chars, des soldats..."
   },
@@ -147,7 +147,7 @@
     "menu": "bl",
     "ph": "",
     "href": "https://zagou29.github.io/",
-    "src": "./images/Mimosa.jpg",
+    "src": "./images/mimosa.jpg",
     "spText": "Zag Vidéos",
     "divText": "Mon premier site Web, avec des playlists videos"
   },
@@ -155,7 +155,7 @@
     "menu": "bl",
     "ph": "",
     "href": "https://marzagfamily.blogspot.com/",
-    "src": "./images/ZagFamily.jpg",
+    "src": "./images/zagfamily.jpg",
     "spText": "Zag Family",
     "divText": "Toutes les vidéos/diapos de la famille jusqu'en 2007"
   },
@@ -163,7 +163,7 @@
     "menu": "bl",
     "ph": "",
     "href": "https://marzagou.blogspot.com/",
-    "src": "./images/FamilleZag-2.jpg",
+    "src": "./images/famillezag-2.jpg",
     "spText": "Marzablog",
     "divText": "les videos et diapos à partir de 2008 avec Gonzague et Margot"
   },
@@ -171,7 +171,7 @@
     "menu": "bl",
     "ph": "",
     "href": "https://marzavoyages.blogspot.com/",
-    "src": "./images/Portugal-2.jpg",
+    "src": "./images/portugal-2.jpg",
     "spText": "Voyages Marzagou",
     "divText": "Tous mes voyages avant et avec Margot"
   },
@@ -179,7 +179,7 @@
     "menu": "bl",
     "ph": "",
     "href": "https://zagfrsd.blogspot.com/",
-    "src": "./images/France.jpg",
+    "src": "./images/france.jpg",
     "spText": "France",
     "divText": "Toutes nos périgrinations à travers la france depuis 2009"
   },
@@ -187,7 +187,7 @@
     "menu": "bl",
     "ph": "",
     "href": "https://zagirlande.blogspot.com/",
-    "src": "./images/Irlande-2.jpg",
+    "src": "./images/irlande-2.jpg",
     "spText": "Irlande & UK",
     "divText": "En Irlande et UK avec Margot"
   },
@@ -195,7 +195,7 @@
     "menu": "bl",
     "ph": "",
     "href": "https://greekbale.blogspot.com/",
-    "src": "./images/Grece-2.jpg",
+    "src": "./images/grece-2.jpg",
     "spText": "Grece",
     "divText": "En bateau avec nos amis en Grece, Ecosse, Baleares"
   },
@@ -211,7 +211,7 @@
     "menu": "bl",
     "ph": "",
     "href": "https://zagameric.blogspot.com/",
-    "src": "./images/USA-2.jpg",
+    "src": "./images/usa-2.jpg",
     "spText": "Usa Quebec",
     "divText": "Notre traversée des USA en 2010 et Usa/Quebec en 2011 avec Dom et Bea"
   },
@@ -219,7 +219,7 @@
     "menu": "bl",
     "ph": "",
     "href": "https://randomex18.blogspot.com/",
-    "src": "./images/Mexique-2.jpg",
+    "src": "./images/mexique-2.jpg",
     "spText": "Mexique",
     "divText": "Mexique :2002 Margot, 2006 Gonzague, ensemble 2018"
   },
@@ -227,7 +227,7 @@
     "menu": "bl",
     "ph": "",
     "href": "https://chine2013.blogspot.com/",
-    "src": "./images/Chine-2.jpg",
+    "src": "./images/chine-2.jpg",
     "spText": "Chine",
     "divText": "Chine 2013 avec Ming Hong"
   },
@@ -235,7 +235,7 @@
     "menu": "bl",
     "ph": "",
     "href": "https://randovietnam2017.blogspot.com/",
-    "src": "./images/Vietnam-3.jpg",
+    "src": "./images/vietnam-3.jpg",
     "spText": "Vietnam",
     "divText": "Vietnam 2017 avec Mado et Michel"
   },
@@ -243,7 +243,7 @@
     "menu": "bl",
     "ph": "",
     "href": "https://voyagesiut.blogspot.com/",
-    "src": "./images/MexiqueMarg-2.jpg",
+    "src": "./images/mexiquemarg-2.jpg",
     "spText": "Voyages Margot",
     "divText": "Voyages de Margot avec l'IUT Inde 2001, Mexique 2002"
   },
@@ -251,7 +251,7 @@
     "menu": "bl",
     "ph": "",
     "href": "https://cariousebalp.blogspot.com/",
-    "src": "./images/Carious.jpg",
+    "src": "./images/carious.jpg",
     "spText": "Carious",
     "divText": "Les videos de la famille Carious"
   },
@@ -267,7 +267,7 @@
     "menu": "bl",
     "ph": "",
     "href": "https://krcnds.blogspot.com/",
-    "src": "./images/Kerichen.jpg",
+    "src": "./images/kerichen.jpg",
     "spText": "Kerichen",
     "divText": "Les retrouvailles annuelles des ex-Kerichens depuis 2013"
   },
@@ -283,7 +283,7 @@
     "menu": "bl",
     "ph": "",
     "href": "https://mariehelenepb.blogspot.com/",
-    "src": "./images/Paysbas.jpg",
+    "src": "./images/paysbas.jpg",
     "spText": "Pays Bas",
     "divText": "Visite chez Marie Hélène"
   }

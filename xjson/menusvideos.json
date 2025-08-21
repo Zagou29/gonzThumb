@@ -94,63 +94,63 @@
         "clas": ".vid.voy.amer.usa",
         "menu": "Voyages",
         "groupe": "Amérique",
-        "src": "./box_img/UsaQuebec01.jpg",
+        "src": "./box_img/usaQuebec01.jpg",
         "detail": "U.S.A"
     },
     {
         "clas": ".vid.voy.amer.mex",
         "menu": "Voyages",
         "groupe": "Amérique",
-        "src": "./box_img/Mexique01.jpg",
+        "src": "./box_img/mexique01.jpg",
         "detail": "Mexique"
     },
     {
         "clas": ".vid.voy.asie.chi",
         "menu": "Voyages",
         "groupe": "Asie",
-        "src": "./box_img/Chine01.jpg",
+        "src": "./box_img/chine01.jpg",
         "detail": "Chine"
     },
     {
         "clas": ".vid.voy.asie.vie",
         "menu": "Voyages",
         "groupe": "Asie",
-        "src": "./box_img/Vietnam-04.jpg",
+        "src": "./box_img/vietnam-04.jpg",
         "detail": "Vietnam"
     },
     {
         "clas": ".vid.voy.euro.frn",
         "menu": "Voyages",
         "groupe": "Europe",
-        "src": "./box_img/FranceNord-01.jpg",
+        "src": "./box_img/franceNord-01.jpg",
         "detail": "France Nord"
     },
     {
         "clas": ".vid.voy.euro.frs",
         "menu": "Voyages",
         "groupe": "Europe",
-        "src": "./box_img/FranceSud-01.jpg",
+        "src": "./box_img/franceSud-01.jpg",
         "detail": "France Sud"
     },
     {
         "clas": ".vid.voy.euro.med",
         "menu": "Voyages",
         "groupe": "Europe",
-        "src": "./box_img/Mediterranee-02.jpg",
+        "src": "./box_img/mediterranee-02.jpg",
         "detail": "Mediterranée"
     },
     {
         "clas": ".vid.voy.euro.irl",
         "menu": "Voyages",
         "groupe": "Europe",
-        "src": "./box_img/Irlande-03.jpg",
+        "src": "./box_img/irlande-03.jpg",
         "detail": "Irlande-UK"
     },
     {
         "clas": ".vid.voy.euro.sca",
         "menu": "Voyages",
         "groupe": "Europe",
-        "src": "./box_img/Scandinavie.jpg",
+        "src": "./box_img/scandinavie.jpg",
         "detail": "Scandinavie"
     },
     {
@@ -164,63 +164,63 @@
         "clas": ".vid.voy.iles.fra",
         "menu": "Voyages",
         "groupe": "Les Iles",
-        "src": "./box_img/Antilles-02.jpg",
+        "src": "./box_img/antilles-02.jpg",
         "detail": "Iles France Antilles"
     },
     {
         "clas": ".dia.voy.amer.mex",
         "menu": "Voyages",
         "groupe": "Amérique",
-        "src": "./box_img/Mexique04.jpg",
+        "src": "./box_img/mexique04.jpg",
         "detail": "Mexique"
     },
     {
         "clas": ".dia.voy.amer.usa",
         "menu": "Voyages",
         "groupe": "Amérique",
-        "src": "./box_img/UsaQuebec02.jpg",
+        "src": "./box_img/usaQuebec02.jpg",
         "detail": "U.S.A"
     },
     {
         "clas": ".dia.voy.asie.chi",
         "menu": "Voyages",
         "groupe": "Asie",
-        "src": "./box_img/Chine03.jpg",
+        "src": "./box_img/chine03.jpg",
         "detail": "Chine"
     },
     {
         "clas": ".dia.voy.asie.vie",
         "menu": "Voyages",
         "groupe": "Asie",
-        "src": "./box_img/Vietnam-11.jpg",
+        "src": "./box_img/vietnam-11.jpg",
         "detail": "Vietnam"
     },
     {
         "clas": ".dia.voy.euro.frs",
         "menu": "Voyages",
         "groupe": "Europe",
-        "src": "./box_img/FranceSud-03.jpg",
+        "src": "./box_img/franceSud-03.jpg",
         "detail": "France Sud"
     },
     {
         "clas": ".dia.voy.euro.irl",
         "menu": "Voyages",
         "groupe": "Europe",
-        "src": "./box_img/Irlande-04.jpg",
+        "src": "./box_img/irlande-04.jpg",
         "detail": "Irlande-UK"
     },
     {
         "clas": ".dia.voy.euro.med",
         "menu": "Voyages",
         "groupe": "Europe",
-        "src": "./box_img/Mediterranee-01.jpg",
+        "src": "./box_img/mediterranee-01.jpg",
         "detail": "Mediterranée"
     },
     {
         "clas": ".dia.voy.euro.frn",
         "menu": "Voyages",
         "groupe": "",
-        "src": "./box_img/FranceNord-02.jpg",
+        "src": "./box_img/franceNord-02.jpg",
         "detail": "France Nord"
     },
     {
@@ -234,14 +234,14 @@
         "clas": ".dia.voy.iles.fra",
         "menu": "Voyages",
         "groupe": "Les Iles",
-        "src": "./box_img/Antilles-03.jpg",
+        "src": "./box_img/antilles-03.jpg",
         "detail": "Iles France Antilles"
     },
     {
         "clas": ".vid.pll.amis.ami",
         "menu": "Playlist",
         "groupe": "Amis",
-        "src": "./box_img/Amis-02.jpg",
+        "src": "./box_img/amis-02.jpg",
         "detail": "Vidéos Amis"
     },
     {
@@ -269,7 +269,7 @@
         "clas": ".dia.pll.amis.amis",
         "menu": "Playlist",
         "groupe": "Amis",
-        "src": "./box_img/Amis-03.jpg",
+        "src": "./box_img/amis-03.jpg",
         "detail": "Diapos Amis"
     },
     {
@@ -304,7 +304,7 @@
         "clas": ".dia.voy.euro.sca",
         "menu": "Voyages",
         "groupe": "Europe",
-        "src": "./box_img/Scandinavie-2.jpg",
+        "src": "./box_img/scandinavie-2.jpg",
         "detail": "Scandinavie"
     }
 ]
