@@ -2,7 +2,7 @@ import { mob } from "./xfonctions/nav_os.js";
 import { fetchJSON } from "./xfonctions/api.js";
 import { createElement } from "./xfonctions/dom.js";
 import { Menubox } from "./xfonctions/menubox.js";
-import { MenuVid } from "./xfonctions/menuVid.js";
+import { MenuVid } from "./xfonctions/menuvid.js";
 import { Affvid } from "./xfonctions/affvid.js";
 try {
   /** Charger les menuboxes */
@@ -28,8 +28,8 @@ try {
 // elements.forEach((element) => element.classList.add("scrbar"));
 /* -----------------les classes et les menus --------------------- */
 /**Charger la liste globale des videos */
-const vidList = await fetchJSON("./xjson/indexVid.json");
-const menuList = await fetchJSON("./xjson/menusVideos.json");
+const vidList = await fetchJSON("./xjson/indexvid.json");
+const menuList = await fetchJSON("./xjson/menusvideos.json");
 /** trier les videos selon l'année old-> new */
 vidList.sort((a, b) => (a.annee > b.annee ? 1 : a.annee < b.annee ? -1 : 0));
 /** raccorder les videos aux menuboxes par les classes */
